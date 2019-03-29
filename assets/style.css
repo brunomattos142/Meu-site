@@ -1,0 +1,97 @@
+html{
+    padding:0;
+    margin:0;
+    height: 100%;
+}
+body{
+    padding:0;
+    margin:0;
+    height: 100%;
+}
+.cabecalho{
+    background:#000014;
+    text-align: center;
+    margin: 0px;
+    padding: 3px;
+}
+.color1{
+        color:white;
+    }
+ 
+.titulo{
+    
+    background-image: url("images/banner2.jpg"); 
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    }
+.color{
+        color:#EFF8FB;
+    }
+    .centro{
+        text-align: center;
+        padding: 30px 0 30px;
+        width: 70%;
+        border: 1px solid #EFF8FB;
+        background: rgba(14,13,62,0.30);
+        position:relative;
+        margin:auto;
+        top:40%
+    }
+ 
+.circulo{
+    border-radius: 50%;
+    vertical-align: middle;
+     
+}
+.banner1{
+    background:#070B19;
+    color:white;   
+}
+h3{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    line-height: 38px;
+    padding-bottom: 0px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 0px;
+}
+.row {
+display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.banner2 {
+background:#000014;
+padding: 3px;
+color:white;
+line-height: 38px;
+margin: 0px
+}
+.banner3{
+    background:#070B19;
+    padding: 3px;
+    color:white;
+    line-height:38px;
+    margin:0px;
+}
+.banner4{
+  background:#000014;
+  padding: 3px;
+    color:white;
+    line-height:38px;
+    margin:0px;  
+}
+
+.rodape {
+background:#070B19;
+text-align: center;
+margin: 0px;
+color: white;
+padding: 3px;
+}
